@@ -46,9 +46,9 @@
 
 ### 🔥 Featured Projects
 
-- 🔍 [**BTEB Result System**](https://github.com/shihab19778/bteb-result-system) – Upload PDFs and allow students to search by roll ✅  
+- 🔍 [**BTEB CGPA CALCULATOR**](https://diploma-cgpa-cal.netlify.app/) – Upload PDFs and allow students to search by roll ✅  
 - 🌐 [**Personal Portfolio**](https://shihab-web.netlify.app/) – Sleek portfolio with contact form & resume 💼  
-- 📝 [**Daily Planner App**](https://github.com/shihab19778/daily-planner) – Built with HTML, CSS, JS  
+- 📝 [**EID SALAMI**](https://eid-salami-shb.netlify.app/) – Built with HTML, CSS, JS  
 
 ---
 
