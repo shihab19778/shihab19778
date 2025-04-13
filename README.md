@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shihab19778&show_icons=true&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=shihab19778&show_icons=true&theme=tokyonight" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihab19778&layout=compact&theme=tokyonight" />
 </div>
 
