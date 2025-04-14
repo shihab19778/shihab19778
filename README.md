@@ -23,7 +23,7 @@
 - 🌱 Currently learning **Laravel**, diving into **JavaScript** and planning to explore **React**
 - 🔧 Building a **BTEB Result Management System**
 - 🧩 Love solving problems and building real-life projects
-- 🏡 Dreaming of building my own house in the village! 🛠️
+- 🏡 Dreaming of building my own house in the Dhaka! 🛠️
 
 ---
 
